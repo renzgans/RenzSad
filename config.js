@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' //Main Watermark
+global.wm = 'Owner Renz' //Main Watermark
 
 global.wm2 = 'Owner Renz'
 
